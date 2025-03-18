@@ -52,9 +52,5 @@ pip install pandas numpy matplotlib seaborn scikit-learn xgboost imbalanced-lear
 - Adding additional classifiers like Neural Networks
 - Deploying the model as a web API
 
-## License
-This project is licensed under the MIT License.
 
-## Author
-[Your Name]
 
